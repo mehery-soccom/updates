@@ -3,9 +3,6 @@ layout: post
 title: Optimizing Response Time for Webhook APIs
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 To ensure the smooth operation of our platform and the timely delivery of messages, we've implemented a timeout of 3 seconds for webhook requests.
 
